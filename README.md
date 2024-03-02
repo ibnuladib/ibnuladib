@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**ibnuladib/ibnuladib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello! My name is Ibnul Mohammad Adib. I am a 2nd year student at American University of Bangladesh studying computer science.
 Maybe a future software engineer? I dont really know yet.
 Currently focusing on DSA and solving problems.
