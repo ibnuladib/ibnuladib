@@ -4,7 +4,8 @@
 
 My name is Adib. I am a CS student at American University of Bangladesh.
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ibnuladib&layout=donut&theme=dracula&hide_border=true&size_weight=0.5&count_weight=0.5)
 
 - 📫 How to reach me: adib.bdhk@gmail.com
 
+
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ibnuladib&layout=donut&theme=dracula&hide_border=true)
