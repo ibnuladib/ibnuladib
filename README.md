@@ -2,9 +2,9 @@
 
 
 
-My name is Adib. I am a CS student at American University of Bangladesh.
+CS student at American University of Bangladesh.
 
 
-- 📫 How to reach me: adib.bdhk@gmail.com
+- 📫 adib.bdhk@gmail.com
 
 
